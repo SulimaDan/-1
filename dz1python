@@ -1,0 +1,26 @@
+    #number1 = float(input("Введіть перше число: "))
+    #number2 = float(input("Введіть друге число: "))
+    #number3 = float(input("Введіть третє число: "))
+
+
+    #suma = number1 + number2 + number3
+    #mnozenia = number1 * number2 * number3
+    #print("Сума чисел: ", suma)
+    #print("Добуток чисел: ", mnozenia)
+
+
+; zp = float(input("Введіть зарплату за місяць: "))
+; kredyt = float(input("Введіть суму місячного платежу за кредитом у банку: "))
+; komunalka = float(input("Введіть заборгованість за комунальні послуги: "))
+
+; ostatok = zp - kredyt - komunalka
+
+
+; print("Сума, яка залишиться після всіх виплат: ", ostatok)
+
+
+diagonal1 = float(input("Введіть довжину першої діагоналі ромба: "))
+diagonal2 = float(input("Введіть довжину другої діагоналі ромба: "))
+
+area = (diagonal1 * diagonal2) / 2
+print("Площа ромба: ", area)
